@@ -1,3 +1,2 @@
 studay01
 studay02
-studay03
