@@ -1,1 +1,2 @@
 studay01
+studay02
